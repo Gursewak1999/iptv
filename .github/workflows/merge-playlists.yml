@@ -1,0 +1,46 @@
+name: Merge M3U Playlists
+
+on:
+  schedule:
+    - cron: "0 0 * * *" # every day at midnight UTC
+  workflow_dispatch: # manual trigger
+
+jobs:
+  merge:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Fetch and merge playlists
+        run: |
+          urls=(
+            "http://live.geoiptv.org:8880/get.php?username=helena&password=helena1&type=m3u&output=ts"
+            "http://live.geoiptv.org:8880/get.php?username=younas&password=younas1&type=m3u&output=ts"
+            "http://live.geoiptv.org:8880/get.php?username=silvia&password=silvia123&type=m3u&output=ts"
+            "http://lis.tvdosug.net/api/20118dee16c5e270b2716243cc862b170ad/high/chanlistx.m3u8"
+            "http://f4cb6ae59728.mylistbest.com/playlists/uplist/8ea958730320c967b175d95b6de73b33/playlist.m3u8"
+            "http://ea5e89663d0b.mylistbest.net/playlists/uplist/b4164fefb50f3eb4fd7f503061844d2d/playlist.m3u8"
+            "http://c6b4f8556e86.iedem.com/playlists/uplist/d9a946aedcc693cd9d9ae4f70595a5b9/playlist.m3u8"
+            "http://288b1a3d9347.yourlistbest.net/playlists/uplist/eba6317a76b13926d9d56c0bd3f0f7b9/playlist.m3u8"
+            "http://c6b4f8556e86.iedem.com/playlists/uplist/d9a946aedcc693cd9d9ae4f70595a5b9/playlist.m3u8"
+            "http://630654669914.mylistbest.com/playlists/uplist/26f957b7dfa638721252906461653ac7/playlist.m3u8"
+          )
+
+          # Start file fresh with M3U header
+          echo "#EXTM3U" > docs/merged.m3u
+
+          # Loop through all urls and append their contents (without duplicate header)
+          for url in "${urls[@]}"; do
+            echo "Merging $url"
+            curl -s "$url" | grep -v "^#EXTM3U" >> docs/merged.m3u
+          done
+
+      - name: Commit and push changes
+        run: |
+          git config user.name "github-actions"
+          git config user.email "actions@github.com"
+          git add docs/merged.m3u
+          git commit -m "Update docs/merged playlist ($(date -u '+%Y-%m-%d %H:%M:%S UTC'))" || echo "No changes to commit"
+          git push
