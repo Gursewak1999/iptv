@@ -709,8 +709,6 @@ http://xott.live:8080/live/57395373/73572926/355988.m3u8
 http://xott.live:8080/live/57395373/73572926/355809.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="IN: Colors Infinity FHD" tvg-logo="" group-title="INDIAN | ENTERTAINMENT",IN: Colors Infinity FHD
 http://xott.live:8080/live/57395373/73572926/355571.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="•●★--- Welcome ----★●•" tvg-logo="https://w7.pngwing.com/pngs/992/181/png-transparent-graphy-welcome-text-photography-logo-thumbnail.png" group-title="INDIAN | PUNJABI",•●★--- Welcome ----★●•
-http://xott.live:8080/live/57395373/73572926/244361.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="IND:PB:  PB: PTC Punjabi" tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/88/PTC_Punjabi.png" group-title="INDIAN | PUNJABI",IND:PB:  PB: PTC Punjabi
 http://xott.live:8080/live/57395373/73572926/244362.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="IND: PB: Pop Pataka HD" tvg-logo="" group-title="INDIAN | PUNJABI",IND: PB: Pop Pataka HD
@@ -859,3 +857,901 @@ http://xott.live:8080/live/57395373/73572926/368954.m3u8
 http://xott.live:8080/live/57395373/73572926/221339.m3u8
 #EXTINF:-1 tvg-id="humtv.pk" tvg-name="PK | HUM TV (4K)" tvg-logo="https://static.epg.best/pk/HumTV.pk.png" group-title="PAKISTAN | ENTERTAINMENT",PK | HUM TV (4K)
 http://xott.live:8080/live/57395373/73572926/25981.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="01 PUNJABI MOVIES 24/7" tvg-logo="http://logo.opplextv.com/logo/POLLYWOODMOVIES247.png" group-title="24/7 PUNJABI MOVIES",01 PUNJABI MOVIES 24/7
+http://xott.live:8080/live/57395373/73572926/251969.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="02 PUNJABI MOVIES 24/7" tvg-logo="http://logo.opplextv.com/logo/POLLYWOODMOVIES247.png" group-title="24/7 PUNJABI MOVIES",02 PUNJABI MOVIES 24/7
+http://xott.live:8080/live/57395373/73572926/251970.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="03 PUNJABI MOVIES 24/7" tvg-logo="http://logo.opplextv.com/logo/POLLYWOODMOVIES247.png" group-title="24/7 PUNJABI MOVIES",03 PUNJABI MOVIES 24/7
+http://xott.live:8080/live/57395373/73572926/252502.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="04 PUNJABI MOVIES 24/7" tvg-logo="http://logo.opplextv.com/logo/POLLYWOODMOVIES247.png" group-title="24/7 PUNJABI MOVIES",04 PUNJABI MOVIES 24/7
+http://xott.live:8080/live/57395373/73572926/252504.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="05 PUNJABI MOVIES 24/7" tvg-logo="http://logo.opplextv.com/logo/POLLYWOODMOVIES247.png" group-title="24/7 PUNJABI MOVIES",05 PUNJABI MOVIES 24/7
+http://xott.live:8080/live/57395373/73572926/341325.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Daaru Na Peenda Hove (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jGzjAvwUkvTMEN8Yn0E1opHd4vM.jpg" group-title="PUNJABI MOVIES",Daaru Na Peenda Hove (2024)
+http://xott.live:8080/movie/57395373/73572926/415003.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Punjabi Aa Gaye Oye (2025)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pfS0P0E2vg0pi7qHFwfykzztm3.jpg" group-title="PUNJABI MOVIES",Punjabi Aa Gaye Oye (2025)
+http://xott.live:8080/movie/57395373/73572926/414889.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Mehar (2025)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/f6ygZaUcXcRJVgFVc7oIxR8uR5Y.jpg" group-title="PUNJABI MOVIES",Mehar (2025)
+http://xott.live:8080/movie/57395373/73572926/414668.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Mukk Gyi Feem Dabbi Cho Yaaro (2025)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sGIUTJ6lMkPdkTZjOBo9bUjoGoI.jpg" group-title="PUNJABI MOVIES",Mukk Gyi Feem Dabbi Cho Yaaro (2025)
+http://xott.live:8080/movie/57395373/73572926/414500.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Maa Jaye (2025)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bRmiHBbHuDtArHsryIxJjLmoSAg.jpg" group-title="PUNJABI MOVIES",Maa Jaye (2025)
+http://xott.live:8080/movie/57395373/73572926/414493.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Laarha Faraar (2025)" tvg-logo="" group-title="PUNJABI MOVIES",Laarha Faraar (2025)
+http://xott.live:8080/movie/57395373/73572926/414446.mkv
+#EXTINF:-1 tvg-id="" tvg-name="jaggo aayi aa (2025)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/b58niEUpSPpxnvfn2NXqphM1H0k.jpg" group-title="PUNJABI MOVIES",jaggo aayi aa (2025)
+http://xott.live:8080/movie/57395373/73572926/414381.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Enna Nu Rehna Sehna Ni Aaunda (2025)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gm0BcnnxiHVGgnO5xczlyp5mXCw.jpg" group-title="PUNJABI MOVIES",Enna Nu Rehna Sehna Ni Aaunda (2025)
+http://xott.live:8080/movie/57395373/73572926/414222.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Phaphey Kuttniyan (2025)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kjwkWmr7HrybmEqPkmrkxe5fJcR.jpg" group-title="PUNJABI MOVIES",Phaphey Kuttniyan (2025)
+http://xott.live:8080/movie/57395373/73572926/414119.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Policy (2025)" tvg-logo="" group-title="PUNJABI MOVIES",Policy (2025)
+http://xott.live:8080/movie/57395373/73572926/413945.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Kabuterbaz (2025)" tvg-logo="https://assets-in.bmscdn.com/iedb/movies/images/mobile/thumbnail/xlarge/kabutarbaaz-et00430334-1737635943.jpg" group-title="PUNJABI MOVIES",Kabuterbaz (2025)
+http://xott.live:8080/movie/57395373/73572926/413944.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Mr & Mrs 420 Again (2025)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aLz55lqo3geX4GP8lmroyYV7ecq.jpg" group-title="PUNJABI MOVIES",Mr & Mrs 420 Again (2025)
+http://xott.live:8080/movie/57395373/73572926/413878.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Kuriyan Jawan Bapu Preshaan 2 (2025)" tvg-logo="https://m.media-amazon.com/images/M/MV5BNGRiM2YxMDUtZGFjNy00MTkwLWE3YzUtMWJiMmQ0MmU5MzhiXkEyXkFqcGc@._V1_.jpg" group-title="PUNJABI MOVIES",Kuriyan Jawan Bapu Preshaan 2 (2025)
+http://xott.live:8080/movie/57395373/73572926/413840.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Teda Meda Chal Canada (2025)" tvg-logo="" group-title="PUNJABI MOVIES",Teda Meda Chal Canada (2025)
+http://xott.live:8080/movie/57395373/73572926/413728.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Hanji Kaun (2025)" tvg-logo="https://bingeddata.s3.amazonaws.com/uploads/2025/08/gxvcslkwoaa4jrn.jpg" group-title="PUNJABI MOVIES",Hanji Kaun (2025)
+http://xott.live:8080/movie/57395373/73572926/413727.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Main Tenu Fer Milangi (2025)" tvg-logo="" group-title="PUNJABI MOVIES",Main Tenu Fer Milangi (2025)
+http://xott.live:8080/movie/57395373/73572926/413698.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Chal Mera Putt 4 (2025)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5PUOvQRXRFrj4HD6KQEYDhCcdVe.jpg" group-title="PUNJABI MOVIES",Chal Mera Putt 4 (2025)
+http://xott.live:8080/movie/57395373/73572926/413649.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Haan Main Pagal Haan (1970)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5TcBXvsGEUsLimlrnjvLVhWkDil.jpg" group-title="PUNJABI MOVIES",Haan Main Pagal Haan (1970)
+http://xott.live:8080/movie/57395373/73572926/413363.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Saunkan Saunkanay 2 (2025)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fGQBK3RjN1jmZKOhkyaOppcDpxk.jpg" group-title="PUNJABI MOVIES",Saunkan Saunkanay 2 (2025)
+http://xott.live:8080/movie/57395373/73572926/413315.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Sarbala Ji (2025)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5dv1oOZYzlsBK8O5GxNNib0nqQ8.jpg" group-title="PUNJABI MOVIES",Sarbala Ji (2025)
+http://xott.live:8080/movie/57395373/73572926/413300.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Gangland: The City of Crime (2025)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ebCmlVJXXwTgedVhS647S11Mz7U.jpg" group-title="PUNJABI MOVIES",Gangland: The City of Crime (2025)
+http://xott.live:8080/movie/57395373/73572926/413297.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Pyaar Taan Hai Na (2025)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fUsspabzgR8qaQlACg9Okgk5DcO.jpg" group-title="PUNJABI MOVIES",Pyaar Taan Hai Na (2025)
+http://xott.live:8080/movie/57395373/73572926/413280.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Sardaarji 3 (2025)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7Ewhg07n1WCP9djIK3Fhuy00MTz.jpg" group-title="PUNJABI MOVIES",Sardaarji 3 (2025)
+http://xott.live:8080/movie/57395373/73572926/402920.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Nafratein (2025)" tvg-logo="" group-title="PUNJABI MOVIES",Nafratein (2025)
+http://xott.live:8080/movie/57395373/73572926/394329.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Master Scheme Singh (2025)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/heYRiNZxbg3pEmDugALDKchjeBf.jpg" group-title="PUNJABI MOVIES",Master Scheme Singh (2025)
+http://xott.live:8080/movie/57395373/73572926/394328.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Sayonee (2025)" tvg-logo="" group-title="PUNJABI MOVIES",Sayonee (2025)
+http://xott.live:8080/movie/57395373/73572926/394325.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Pinjra (2025)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9yhXyD2MuqXeDrNYLXb8p5vjjRS.jpg" group-title="PUNJABI MOVIES",Pinjra (2025)
+http://xott.live:8080/movie/57395373/73572926/394152.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Road Of Life (2025)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/eRlSiv94Jjn9CyQzfvPTsKWkETo.jpg" group-title="PUNJABI MOVIES",Road Of Life (2025)
+http://xott.live:8080/movie/57395373/73572926/393805.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Karamsutra (2025)" tvg-logo="" group-title="PUNJABI MOVIES",Karamsutra (2025)
+http://xott.live:8080/movie/57395373/73572926/393703.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Dakuaan Da Munda 3 (2025)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xhuzfeyG4qml1c2KDKeaZhbxO1u.jpg" group-title="PUNJABI MOVIES",Dakuaan Da Munda 3 (2025)
+http://xott.live:8080/movie/57395373/73572926/393700.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Jodi (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kjs4h4eYj7EZrjagV6Ep4GVYxU3.jpg" group-title="PUNJABI MOVIES",Jodi (2023)
+http://xott.live:8080/movie/57395373/73572926/393556.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Zindagi Zindabaad (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xL0DIfGkeytaEOfMfIOKLBcuGkw.jpg" group-title="PUNJABI MOVIES",Zindagi Zindabaad (2023)
+http://xott.live:8080/movie/57395373/73572926/393500.mkv
+#EXTINF:-1 tvg-id="" tvg-name="2 Jhalle Kithe Challeh (2025)" tvg-logo="" group-title="PUNJABI MOVIES",2 Jhalle Kithe Challeh (2025)
+http://xott.live:8080/movie/57395373/73572926/393397.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Ve Koi Le Chaleya Muklawe (2025)" tvg-logo="" group-title="PUNJABI MOVIES",Ve Koi Le Chaleya Muklawe (2025)
+http://xott.live:8080/movie/57395373/73572926/393304.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Tenu Ghodi Kinney Chadaya (2025)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aVBlGrl4I4fJ7hmv6uB15qoFA9D.jpg" group-title="PUNJABI MOVIES",Tenu Ghodi Kinney Chadaya (2025)
+http://xott.live:8080/movie/57395373/73572926/393146.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Nigah Marda Ayi Ve (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/f4X8Mup2DOkFxJJ29jWQ0Kt0HzH.jpg" group-title="PUNJABI MOVIES",Nigah Marda Ayi Ve (2023)
+http://xott.live:8080/movie/57395373/73572926/392586.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Hara Chura (2025)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/eZCZPIE1WdmIoSK5RO6pM8KYAwe.jpg" group-title="PUNJABI MOVIES",Hara Chura (2025)
+http://xott.live:8080/movie/57395373/73572926/392447.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Vair (2025)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zJ4pkkOLUuWga6W49Tc0JOJuJm2.jpg" group-title="PUNJABI MOVIES",Vair (2025)
+http://xott.live:8080/movie/57395373/73572926/392439.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Akkad Bakkad Bambbe Bo Assi Nabbe Poore So (2025)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nv0TEuZ0SR7Pzg1RlOBJw00qc7F.jpg" group-title="PUNJABI MOVIES",Akkad Bakkad Bambbe Bo Assi Nabbe Poore So (2025)
+http://xott.live:8080/movie/57395373/73572926/391764.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Needhi Singh (2016)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/g3oULEcucEJH7qqLxSk1FL4OfQX.jpg" group-title="PUNJABI MOVIES",Needhi Singh (2016)
+http://xott.live:8080/movie/57395373/73572926/391361.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Rishte Naate (2025)" tvg-logo="https://assets-in.bmscdn.com/iedb/movies/images/mobile/thumbnail/xxlarge/rishte-naate-et00425201-1734501067.jpg" group-title="PUNJABI MOVIES",Rishte Naate (2025)
+http://xott.live:8080/movie/57395373/73572926/391232.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Taron Paar (2025)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6wdHCzUgUD9X0znUyyrCAVicmy9.jpg" group-title="PUNJABI MOVIES",Taron Paar (2025)
+http://xott.live:8080/movie/57395373/73572926/391207.mkv
+#EXTINF:-1 tvg-id="" tvg-name="The Toys (2025)" tvg-logo="https://i.postimg.cc/tRh5wVFd/The-Toys-2025-Movie-Poster.jpg" group-title="PUNJABI MOVIES",The Toys (2025)
+http://xott.live:8080/movie/57395373/73572926/391153.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Mittran Da Challeya Truck Ni (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/eY1V4zlMLrNR2QBlpGbtxmc5X6.jpg" group-title="PUNJABI MOVIES",Mittran Da Challeya Truck Ni (2024)
+http://xott.live:8080/movie/57395373/73572926/391107.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Manje Bistre (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/m7YpsaBbcTpYPPQXlzFGaSnUIN3.jpg" group-title="PUNJABI MOVIES",Manje Bistre (2017)
+http://xott.live:8080/movie/57395373/73572926/390953.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Mithde (2025)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aNSeCYQi1ufDueaLcclab51xnfr.jpg" group-title="PUNJABI MOVIES",Mithde (2025)
+http://xott.live:8080/movie/57395373/73572926/390915.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Six Each (2025)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nYHk4K1mDWPYMK7C52DSkfoG98X.jpg" group-title="PUNJABI MOVIES",Six Each (2025)
+http://xott.live:8080/movie/57395373/73572926/390914.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Badnaam (2025)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qgEf4jlTkyhcj8cK44gnr36EKeS.jpg" group-title="PUNJABI MOVIES",Badnaam (2025)
+http://xott.live:8080/movie/57395373/73572926/390860.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Fikar Karo Na (2025)" tvg-logo="https://i.ibb.co/KchmNV9N/Fikar-Karo-Na-2025-Movie-Poster.jpg" group-title="PUNJABI MOVIES",Fikar Karo Na (2025)
+http://xott.live:8080/movie/57395373/73572926/390831.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Hoshiar Singh (2025)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gumx1T7ERoTJsV0ioS9HptIEnUP.jpg" group-title="PUNJABI MOVIES",Hoshiar Singh (2025)
+http://xott.live:8080/movie/57395373/73572926/390802.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Jarnail: The Warrior (2025)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pe6jXRa2L3I43wl98XciwJQaMue.jpg" group-title="PUNJABI MOVIES",Jarnail: The Warrior (2025)
+http://xott.live:8080/movie/57395373/73572926/390683.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Raduaa Returns (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tWzlJZ9hIqlpZz3Djydk1iDtIR5.jpg" group-title="PUNJABI MOVIES",Raduaa Returns (2024)
+http://xott.live:8080/movie/57395373/73572926/390653.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Bahuroopyia (2025)" tvg-logo="https://imgshare.info/images/2025/02/27/Bahuroopiya.jpg" group-title="PUNJABI MOVIES",Bahuroopyia (2025)
+http://xott.live:8080/movie/57395373/73572926/390652.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Khilre Hoye Warke Kudrat (2025)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4RcHprTptkXOI2fJUPLwAR82LLn.jpg" group-title="PUNJABI MOVIES",Khilre Hoye Warke Kudrat (2025)
+http://xott.live:8080/movie/57395373/73572926/390505.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Illti (2025)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yW4vCbrdDKcx33jzkYtwy7Psav3.jpg" group-title="PUNJABI MOVIES",Illti (2025)
+http://xott.live:8080/movie/57395373/73572926/390351.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Panjab Files (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/28bCMDJP1ZaEFHVIupy6JLcbX1I.jpg" group-title="PUNJABI MOVIES",Panjab Files (2024)
+http://xott.live:8080/movie/57395373/73572926/390262.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Sauda Khara Khara (2025)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wov8EqCYpXxNcdDhO7051gpEh5X.jpg" group-title="PUNJABI MOVIES",Sauda Khara Khara (2025)
+http://xott.live:8080/movie/57395373/73572926/390208.mkv
+#EXTINF:-1 tvg-id="" tvg-name=" Je Paisa Bolda Hunda (2024) " tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="PUNJABI MOVIES", Je Paisa Bolda Hunda (2024) 
+http://xott.live:8080/movie/57395373/73572926/375357.mkv
+#EXTINF:-1 tvg-id="" tvg-name="15 Lakh Kadon Aauga (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1MBZIsnWPXHF2I7LggypfexyYeG.jpg" group-title="PUNJABI MOVIES",15 Lakh Kadon Aauga (2019)
+http://xott.live:8080/movie/57395373/73572926/211369.mkv
+#EXTINF:-1 tvg-id="" tvg-name="22 Chamkila Forever (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="PUNJABI MOVIES",22 Chamkila Forever (2022)
+http://xott.live:8080/movie/57395373/73572926/369563.mkv
+#EXTINF:-1 tvg-id="" tvg-name="25 Kille (2016)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/94sEqH6lA47ojykS266xXa2hFJ4.jpg" group-title="PUNJABI MOVIES",25 Kille (2016)
+http://xott.live:8080/movie/57395373/73572926/211283.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Aa Gaye Munde U.K. De (2014)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dUkvvdpbEcrmNXeLBuf0DBRIh5l.jpg" group-title="PUNJABI MOVIES",Aa Gaye Munde U.K. De (2014)
+http://xott.live:8080/movie/57395373/73572926/234338.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Aaja Mexico Challiye (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/khH1DWBlGZydimNyaz2ENj57PLl.jpg" group-title="PUNJABI MOVIES",Aaja Mexico Challiye (2022)
+http://xott.live:8080/movie/57395373/73572926/245136.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Aape Pein Siyappe (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="PUNJABI MOVIES",Aape Pein Siyappe (2021)
+http://xott.live:8080/movie/57395373/73572926/219671.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Aar Paar (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="PUNJABI MOVIES",Aar Paar (2023)
+http://xott.live:8080/movie/57395373/73572926/371216.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Aashiqui Not Allowed (2013)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kIHsYYwdO2Vre7nJ21SwcGIRf01.jpg" group-title="PUNJABI MOVIES",Aashiqui Not Allowed (2013)
+http://xott.live:8080/movie/57395373/73572926/211238.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Aate Di Chidi (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bRLbp9WcCShF071fWxiHdmFT3HD.jpg" group-title="PUNJABI MOVIES",Aate Di Chidi (2018)
+http://xott.live:8080/movie/57395373/73572926/211354.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Adab Prahuna Ik Najara 2 Naraa (2024) " tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="PUNJABI MOVIES",Adab Prahuna Ik Najara 2 Naraa (2024) 
+http://xott.live:8080/movie/57395373/73572926/374900.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Afsar (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/32c8F6ZDyQ6AhBsEbnkmEhbMOGG.jpg" group-title="PUNJABI MOVIES",Afsar (2018)
+http://xott.live:8080/movie/57395373/73572926/211270.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Allar Vres (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="PUNJABI MOVIES",Allar Vres (2024)
+http://xott.live:8080/movie/57395373/73572926/379670.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Alzheimer (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/95Wf3Zuj1NbAEm7jUnH8JyX8PM7.jpg" group-title="PUNJABI MOVIES",Alzheimer (2024)
+http://xott.live:8080/movie/57395373/73572926/381981.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Amaanat (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ioWBCvtRjkfFjX0sPZdcZgRvNkj.jpg" group-title="PUNJABI MOVIES",Amaanat (2019)
+http://xott.live:8080/movie/57395373/73572926/211345.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Angrej (2015)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="PUNJABI MOVIES",Angrej (2015)
+http://xott.live:8080/movie/57395373/73572926/211284.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Annhi Dea Mazaak Ae (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8QdI1jEyVv3XxrUzXYAjrq7UNKi.jpg" group-title="PUNJABI MOVIES",Annhi Dea Mazaak Ae (2023)
+http://xott.live:8080/movie/57395373/73572926/342109.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Any How Mitti Pao (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7NGNqOy5Ipi3YYhT5iogwc0Fouy.jpg" group-title="PUNJABI MOVIES",Any How Mitti Pao (2023)
+http://xott.live:8080/movie/57395373/73572926/373533.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Ardaas Karaan (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1AyQxB4IObBjQkRcA0ttnSGs5rA.jpg" group-title="PUNJABI MOVIES",Ardaas Karaan (2019)
+http://xott.live:8080/movie/57395373/73572926/219731.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Ardab Mutiyaran (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/up6GjZwTCkciAOCLpG0tF8YYgbL.jpg" group-title="PUNJABI MOVIES",Ardab Mutiyaran (2019)
+http://xott.live:8080/movie/57395373/73572926/211352.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Arjan (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fy8Ikt46SEsYWY2qxWxmUW4aglR.jpg" group-title="PUNJABI MOVIES",Arjan (2017)
+http://xott.live:8080/movie/57395373/73572926/211285.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Arjun Patiala (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nuPerJWV04xQMQUu9J6K6H4iFCB.jpg" group-title="PUNJABI MOVIES",Arjun Patiala (2019)
+http://xott.live:8080/movie/57395373/73572926/211271.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Asees (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8M5YfdV7KnEYv5JrCu4z75eDk9i.jpg" group-title="PUNJABI MOVIES",Asees (2018)
+http://xott.live:8080/movie/57395373/73572926/211263.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Baapu Bahar Bhejde (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/16A1C1YKwpJeGQturaC466sywUZ.jpg" group-title="PUNJABI MOVIES",Baapu Bahar Bhejde (2022)
+http://xott.live:8080/movie/57395373/73572926/253560.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Baapu Char Gaya Ghori (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="PUNJABI MOVIES",Baapu Char Gaya Ghori (2023)
+http://xott.live:8080/movie/57395373/73572926/371345.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Babbar (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aGBRUyQVsEG5YU2s1Cn2FveWT0q.jpg" group-title="PUNJABI MOVIES",Babbar (2022)
+http://xott.live:8080/movie/57395373/73572926/245983.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Babe Bhangra Paunde Ne (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jUsWAubpLY2PnNOZtpOd7ZAYUlG.jpg" group-title="PUNJABI MOVIES",Babe Bhangra Paunde Ne (2022)
+http://xott.live:8080/movie/57395373/73572926/282520.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Babul Meriya Guddiya (2023) " tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="PUNJABI MOVIES",Babul Meriya Guddiya (2023) 
+http://xott.live:8080/movie/57395373/73572926/341072.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Bach Ke Bai Ji (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="PUNJABI MOVIES",Bach Ke Bai Ji (2023)
+http://xott.live:8080/movie/57395373/73572926/346140.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Badla (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="PUNJABI MOVIES",Badla (2024)
+http://xott.live:8080/movie/57395373/73572926/384702.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Bailaras (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hgpT2anZhZbQeVMzEf6BNLsTE3q.jpg" group-title="PUNJABI MOVIES",Bailaras (2017)
+http://xott.live:8080/movie/57395373/73572926/211286.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Bajre Da Sitta (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="PUNJABI MOVIES",Bajre Da Sitta (2022)
+http://xott.live:8080/movie/57395373/73572926/263469.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Balle O Chalaak Sajjna (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/chd5LiWb9AVG9sZjivYAPKeNWrz.jpg" group-title="PUNJABI MOVIES",Balle O Chalaak Sajjna (2023)
+http://xott.live:8080/movie/57395373/73572926/371623.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Band Vaaje (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="PUNJABI MOVIES",Band Vaaje (2019)
+http://xott.live:8080/movie/57395373/73572926/211264.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Bandaa Singh Chaudhary (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dnWvZsgNFwc5auAvChSeQhlGPAq.jpg" group-title="PUNJABI MOVIES",Bandaa Singh Chaudhary (2024)
+http://xott.live:8080/movie/57395373/73572926/384110.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Bande Khani Bandook Nagni (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fkwE6iYgsoWazyQvalDkzXCdsXi.jpg" group-title="PUNJABI MOVIES",Bande Khani Bandook Nagni (2023)
+http://xott.live:8080/movie/57395373/73572926/373667.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Banjara: The Truck Driver (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8CWHJ4gY11h6wVWnxKtVKj2HevD.jpg" group-title="PUNJABI MOVIES",Banjara: The Truck Driver (2018)
+http://xott.live:8080/movie/57395373/73572926/375209.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Bapu Ni Manda Mera (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3OkzguYJxCaDmLkONJZWS3GQFq8.jpg" group-title="PUNJABI MOVIES",Bapu Ni Manda Mera (2024)
+http://xott.live:8080/movie/57395373/73572926/389860.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Batch 2013 (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="PUNJABI MOVIES",Batch 2013 (2022)
+http://xott.live:8080/movie/57395373/73572926/276730.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Bathinda Express (2016)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kPyJcXyhhu67ddUmTccnFlNEgWB.jpg" group-title="PUNJABI MOVIES",Bathinda Express (2016)
+http://xott.live:8080/movie/57395373/73572926/211287.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Beautiful Billo (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/52Oi5AuOhBd1ZZANFlI0QzC6IfQ.jpg" group-title="PUNJABI MOVIES",Beautiful Billo (2022)
+http://xott.live:8080/movie/57395373/73572926/266340.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Benaqaab Chehre (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="PUNJABI MOVIES",Benaqaab Chehre (2023)
+http://xott.live:8080/movie/57395373/73572926/345269.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Bhagat Singh Di Udeek (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="PUNJABI MOVIES",Bhagat Singh Di Udeek (2018)
+http://xott.live:8080/movie/57395373/73572926/211288.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Bhajjo Veero Ve (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="PUNJABI MOVIES",Bhajjo Veero Ve (2018)
+http://xott.live:8080/movie/57395373/73572926/211349.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Bhalwan Singh (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7FdMvWxwWtKkKGjRlx9xgMfWeDe.jpg" group-title="PUNJABI MOVIES",Bhalwan Singh (2017)
+http://xott.live:8080/movie/57395373/73572926/211289.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Bhoot Uncle Tusi Great Ho (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ffJdeSGjWiKA4wDYn38G5urpevb.jpg" group-title="PUNJABI MOVIES",Bhoot Uncle Tusi Great Ho (2022)
+http://xott.live:8080/movie/57395373/73572926/345541.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Bhootni De (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4jJPqbE2xbSOEpZPsud7d4dSLB2.jpg" group-title="PUNJABI MOVIES",Bhootni De (2023)
+http://xott.live:8080/movie/57395373/73572926/370499.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Bibi Rajni (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jtNpyOvDXUNS1jU13O3fmeiWGQI.jpg" group-title="PUNJABI MOVIES",Bibi Rajni (2024)
+http://xott.live:8080/movie/57395373/73572926/382094.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Billo (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="PUNJABI MOVIES",Billo (2022)
+http://xott.live:8080/movie/57395373/73572926/266223.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Bina Band Chal England (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="PUNJABI MOVIES",Bina Band Chal England (2023)
+http://xott.live:8080/movie/57395373/73572926/372816.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Blackia (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wbfgbAgiMjBgXhHRTjRRFmbx0sr.jpg" group-title="PUNJABI MOVIES",Blackia (2019)
+http://xott.live:8080/movie/57395373/73572926/211282.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Blackia 2 (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/eA9dnAXj9NETERswgEiZlNTcE7Q.jpg" group-title="PUNJABI MOVIES",Blackia 2 (2024)
+http://xott.live:8080/movie/57395373/73572926/375671.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Blue Van (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7zdS1EAp7HYfx1lx5d6jFkTmzti.jpg" group-title="PUNJABI MOVIES",Blue Van (2024)
+http://xott.live:8080/movie/57395373/73572926/387894.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Bodi Wala Tara (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iSD0eaBNg5CrRDmqiDoA0nb0dB2.jpg" group-title="PUNJABI MOVIES",Bodi Wala Tara (2023)
+http://xott.live:8080/movie/57395373/73572926/346116.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Boo Main Dargi (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kLmBYNw5ZNkyAZna2atKFe62qrP.jpg" group-title="PUNJABI MOVIES",Boo Main Dargi (2024)
+http://xott.live:8080/movie/57395373/73572926/375524.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Breakaway (2011)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fQhyvXM2hOsGe88FrTGdDkaKbEI.jpg" group-title="PUNJABI MOVIES",Breakaway (2011)
+http://xott.live:8080/movie/57395373/73572926/211247.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Buhe Bariyan (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="PUNJABI MOVIES",Buhe Bariyan (2023)
+http://xott.live:8080/movie/57395373/73572926/370971.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Bujharat Heere Di (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lELXefbo31RCQ98t8ymnZZLdUTS.jpg" group-title="PUNJABI MOVIES",Bujharat Heere Di (2023)
+http://xott.live:8080/movie/57395373/73572926/373262.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Butta American (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="PUNJABI MOVIES",Butta American (2021)
+http://xott.live:8080/movie/57395373/73572926/236015.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Canada Di Flight (2016)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/69GYMhXCz1S64iUZUGkXuuNahic.jpg" group-title="PUNJABI MOVIES",Canada Di Flight (2016)
+http://xott.live:8080/movie/57395373/73572926/211256.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Carry on Jatta 2 (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bQju8zpjUaOIqyl7qkL9UwNA5vh.jpg" group-title="PUNJABI MOVIES",Carry on Jatta 2 (2018)
+http://xott.live:8080/movie/57395373/73572926/211258.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Carry on Jatta 3 (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pJqAHS4a1GrtqreALTPG5cqqLKf.jpg" group-title="PUNJABI MOVIES",Carry on Jatta 3 (2023)
+http://xott.live:8080/movie/57395373/73572926/363384.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Chaar Sahibzaade (2014)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nQp114D7CO8kkuNzHldxogmbYFN.jpg" group-title="PUNJABI MOVIES",Chaar Sahibzaade (2014)
+http://xott.live:8080/movie/57395373/73572926/211240.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Chaar Sahibzaade : Rise of Banda Singh Bahadur (2016)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/u0OO0xBC8GfFY7mhFrbCLXVOYhL.jpg" group-title="PUNJABI MOVIES",Chaar Sahibzaade : Rise of Banda Singh Bahadur (2016)
+http://xott.live:8080/movie/57395373/73572926/211290.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Chadeya Da Ghar (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="PUNJABI MOVIES",Chadeya Da Ghar (2017)
+http://xott.live:8080/movie/57395373/73572926/211291.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Chal Bhajj Chaliye (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="PUNJABI MOVIES",Chal Bhajj Chaliye (2023)
+http://xott.live:8080/movie/57395373/73572926/377149.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Chal Bhajj Chaliye (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="PUNJABI MOVIES",Chal Bhajj Chaliye (2024)
+http://xott.live:8080/movie/57395373/73572926/380092.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Chal Mera Putt (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/i4ckFOOeyvU3EGnxbARsoORWbCT.jpg" group-title="PUNJABI MOVIES",Chal Mera Putt (2019)
+http://xott.live:8080/movie/57395373/73572926/211292.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Chal Mera Putt 2 (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nz1EnqItS3KmeRnRiuWjONnrNVE.jpg" group-title="PUNJABI MOVIES",Chal Mera Putt 2 (2020)
+http://xott.live:8080/movie/57395373/73572926/219674.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Chal Mera Putt 3 (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bfWoizkLad2nrFSmqNr3eFcbPi5.jpg" group-title="PUNJABI MOVIES",Chal Mera Putt 3 (2021)
+http://xott.live:8080/movie/57395373/73572926/219656.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Chamm (2022) " tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="PUNJABI MOVIES",Chamm (2022) 
+http://xott.live:8080/movie/57395373/73572926/222013.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Chan Tara (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="PUNJABI MOVIES",Chan Tara (2018)
+http://xott.live:8080/movie/57395373/73572926/211377.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Chandigarh Amritsar Chandigarh (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bncqwUrcWNkk4huNSIwSMHOS19L.jpg" group-title="PUNJABI MOVIES",Chandigarh Amritsar Chandigarh (2019)
+http://xott.live:8080/movie/57395373/73572926/211293.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Channo Kamli Yaar Di (2016)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2PztqXyYeVu8aQRpdznwV5i25LI.jpg" group-title="PUNJABI MOVIES",Channo Kamli Yaar Di (2016)
+http://xott.live:8080/movie/57395373/73572926/211241.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Chauthi Koot (2015)  " tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="PUNJABI MOVIES",Chauthi Koot (2015)  
+http://xott.live:8080/movie/57395373/73572926/211239.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Cheta Singh (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/enMws0lz7SMg1HzMY4EAtmiXHjE.jpg" group-title="PUNJABI MOVIES",Cheta Singh (2023)
+http://xott.live:8080/movie/57395373/73572926/383971.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Chhatri (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1Z2eHIVQtAiZbIQ9DkFPGd5yUzQ.jpg" group-title="PUNJABI MOVIES",Chhatri (2024)
+http://xott.live:8080/movie/57395373/73572926/374281.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Chida Vichara Ki Kare (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/27HWKvoQcBfFFragvhhbM96rLZh.jpg" group-title="PUNJABI MOVIES",Chida Vichara Ki Kare (2023)
+http://xott.live:8080/movie/57395373/73572926/374015.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Chidiyan Da Chamba (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="PUNJABI MOVIES",Chidiyan Da Chamba (2023)
+http://xott.live:8080/movie/57395373/73572926/371938.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Chobbar (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4N2HphJ7VNLRhYonsAXHGs7xXAg.jpg" group-title="PUNJABI MOVIES",Chobbar (2022)
+http://xott.live:8080/movie/57395373/73572926/301599.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Chor Dil (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3qw72RTpVDkjTxzBXtDEcfgt3q7.jpg" group-title="PUNJABI MOVIES",Chor Dil (2024)
+http://xott.live:8080/movie/57395373/73572926/384137.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Chubare Wali Baari (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="PUNJABI MOVIES",Chubare Wali Baari (2021)
+http://xott.live:8080/movie/57395373/73572926/211339.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Chunni Chadawa (2021) " tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="PUNJABI MOVIES",Chunni Chadawa (2021) 
+http://xott.live:8080/movie/57395373/73572926/217582.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Control Bhaji Control (2014)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/eYts0tSsV6W44jeyHSmPn6eTc6j.jpg" group-title="PUNJABI MOVIES",Control Bhaji Control (2014)
+http://xott.live:8080/movie/57395373/73572926/211254.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Countryside Gundey (2022) " tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="PUNJABI MOVIES",Countryside Gundey (2022) 
+http://xott.live:8080/movie/57395373/73572926/264507.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Crazy Boss (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tQI4uW1To2FDIMMeVG1276Ql3oN.jpg" group-title="PUNJABI MOVIES",Crazy Boss (2017)
+http://xott.live:8080/movie/57395373/73572926/211294.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Criminal (2022) " tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="PUNJABI MOVIES",Criminal (2022) 
+http://xott.live:8080/movie/57395373/73572926/312788.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Daaka (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sQncREGqdAcQKKpf0nVLFBTtrdx.jpg" group-title="PUNJABI MOVIES",Daaka (2019)
+http://xott.live:8080/movie/57395373/73572926/211259.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Daana Paani (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nPoqQWNQPemDjVMO1fwdcdHoLC8.jpg" group-title="PUNJABI MOVIES",Daana Paani (2018)
+http://xott.live:8080/movie/57395373/73572926/211295.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Daddy Cool Munde Fool (2013)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hFODqVcQrGSOmpfvCWss8wM4fLG.jpg" group-title="PUNJABI MOVIES",Daddy Cool Munde Fool (2013)
+http://xott.live:8080/movie/57395373/73572926/211296.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Daddy Samjheya Karo (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rQnxGGUmUA3yZ1wtFgaO2F5OjsH.jpg" group-title="PUNJABI MOVIES",Daddy Samjheya Karo (2024)
+http://xott.live:8080/movie/57395373/73572926/382162.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Dakuaan Da Munda (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fuLEk860Jc51BrtFuj12fbmGAGG.jpg" group-title="PUNJABI MOVIES",Dakuaan Da Munda (2018)
+http://xott.live:8080/movie/57395373/73572926/211297.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Dakuaan Da Munda 2 (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="PUNJABI MOVIES",Dakuaan Da Munda 2 (2022)
+http://xott.live:8080/movie/57395373/73572926/253615.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Dangar Doctor Jelly (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cueqtS33jmQJlDHfny0bxeL5Yc4.jpg" group-title="PUNJABI MOVIES",Dangar Doctor Jelly (2017)
+http://xott.live:8080/movie/57395373/73572926/211298.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Darra (2016)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/x6IeEdjalfuh0o2anKiHWX2S4DM.jpg" group-title="PUNJABI MOVIES",Darra (2016)
+http://xott.live:8080/movie/57395373/73572926/211347.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Dharam Sankat Mein (2015)  " tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bjsXitRDmeQWIoUyQ3ZeUTonbkU.jpg" group-title="PUNJABI MOVIES",Dharam Sankat Mein (2015)  
+http://xott.live:8080/movie/57395373/73572926/210594.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Dharti (2011)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4Sf3tm0laRXoRzcvB1CpF8W6t39.jpg" group-title="PUNJABI MOVIES",Dharti (2011)
+http://xott.live:8080/movie/57395373/73572926/211257.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Dhol Ratti (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="PUNJABI MOVIES",Dhol Ratti (2018)
+http://xott.live:8080/movie/57395373/73572926/211299.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Dil Diyan Gallan (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="PUNJABI MOVIES",Dil Diyan Gallan (2019)
+http://xott.live:8080/movie/57395373/73572926/211300.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Dil Hogyaa Laaptaa (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="PUNJABI MOVIES",Dil Hogyaa Laaptaa (2021)
+http://xott.live:8080/movie/57395373/73572926/219864.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Dil Vil Pyaar Vyaar (2014)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wuH1pfxVaHtHHvmpg5fhPCCY3Zl.jpg" group-title="PUNJABI MOVIES",Dil Vil Pyaar Vyaar (2014)
+http://xott.live:8080/movie/57395373/73572926/211335.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Din Dahadey Lai Jaange (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="PUNJABI MOVIES",Din Dahadey Lai Jaange (2018)
+http://xott.live:8080/movie/57395373/73572926/211301.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Disco Singh (2014)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dqy8HkIKWh1yTFb8tJgL9ufQydC.jpg" group-title="PUNJABI MOVIES",Disco Singh (2014)
+http://xott.live:8080/movie/57395373/73572926/211302.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Do Dooni Panj (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="PUNJABI MOVIES",Do Dooni Panj (2019)
+http://xott.live:8080/movie/57395373/73572926/211389.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Doorbeen (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="PUNJABI MOVIES",Doorbeen (2019)
+http://xott.live:8080/movie/57395373/73572926/211273.mkv
+#EXTINF:-1 tvg-id="" tvg-name="DSP Dev (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oJEMmVwAF4IaRAqX0DcKYFibVkU.jpg" group-title="PUNJABI MOVIES",DSP Dev (2019)
+http://xott.live:8080/movie/57395373/73572926/211303.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Dulla Bhatti Wala (2016)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/66uFYbVI7h5NZDNFOlFeVFP7TMQ.jpg" group-title="PUNJABI MOVIES",Dulla Bhatti Wala (2016)
+http://xott.live:8080/movie/57395373/73572926/211370.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Dulla Vailly (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="PUNJABI MOVIES",Dulla Vailly (2018)
+http://xott.live:8080/movie/57395373/73572926/251748.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Dulla Vaily (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/i0LtqFTIqIMtKzUBXDDPL34B2s.jpg" group-title="PUNJABI MOVIES",Dulla Vaily (2019)
+http://xott.live:8080/movie/57395373/73572926/211357.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Dustbin (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="PUNJABI MOVIES",Dustbin (2021)
+http://xott.live:8080/movie/57395373/73572926/219730.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Es Jahano Door Kitte Chal Jindiye (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="PUNJABI MOVIES",Es Jahano Door Kitte Chal Jindiye (2023)
+http://xott.live:8080/movie/57395373/73572926/346063.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Family 420 Once Again (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dcYRRQi30VoFFcC0mD31N1RhyXA.jpg" group-title="PUNJABI MOVIES",Family 420 Once Again (2019)
+http://xott.live:8080/movie/57395373/73572926/211304.mkv
+#EXTINF:-1 tvg-id="" tvg-name="First Kapi (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="PUNJABI MOVIES",First Kapi (2023)
+http://xott.live:8080/movie/57395373/73572926/345172.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Fuffad Ji (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ntlfGmoLzoHJpgvPTVwzYNw2Mq.jpg" group-title="PUNJABI MOVIES",Fuffad Ji (2021)
+http://xott.live:8080/movie/57395373/73572926/220930.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Full Moon (2023) " tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="PUNJABI MOVIES",Full Moon (2023) 
+http://xott.live:8080/movie/57395373/73572926/373079.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Furlow (2025)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xRE9bFdowFs1EEuw2j2RiMENMRj.jpg" group-title="PUNJABI MOVIES",Furlow (2025)
+http://xott.live:8080/movie/57395373/73572926/389812.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Furteela (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8pfbQAS6Re6UpTtQlvN0TaV0Owr.jpg" group-title="PUNJABI MOVIES",Furteela (2024)
+http://xott.live:8080/movie/57395373/73572926/377730.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Gaddi Jaandi Ae Chalaangaan Maardi (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zfGodCkAerAreNSiAKPx511LHsZ.jpg" group-title="PUNJABI MOVIES",Gaddi Jaandi Ae Chalaangaan Maardi (2023)
+http://xott.live:8080/movie/57395373/73572926/371416.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Galwakdi (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2ehzcGwWz7ZLsPrNawvfb2oTXnD.jpg" group-title="PUNJABI MOVIES",Galwakdi (2022)
+http://xott.live:8080/movie/57395373/73572926/246076.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Gandhi 3 (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bDKqB6eR1WHXHMWvgSufJ9BCQNU.jpg" group-title="PUNJABI MOVIES",Gandhi 3 (2024)
+http://xott.live:8080/movie/57395373/73572926/388059.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Gandhi Fer Aa Gea (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gtbYKCXapiM5RkQ4JL1pCiIdoYV.jpg" group-title="PUNJABI MOVIES",Gandhi Fer Aa Gea (2020)
+http://xott.live:8080/movie/57395373/73572926/211372.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Gelo (2016)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="PUNJABI MOVIES",Gelo (2016)
+http://xott.live:8080/movie/57395373/73572926/211359.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Ghoda Dhai Kadam (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="PUNJABI MOVIES",Ghoda Dhai Kadam (2023)
+http://xott.live:8080/movie/57395373/73572926/310423.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Gidarh Singhi (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tfR0TvMLZuaE9hJKEym7SzmMyd9.jpg" group-title="PUNJABI MOVIES",Gidarh Singhi (2019)
+http://xott.live:8080/movie/57395373/73572926/211353.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Godday Godday Chaa (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="PUNJABI MOVIES",Godday Godday Chaa (2023)
+http://xott.live:8080/movie/57395373/73572926/362940.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Golak Bugni Bank Te Batua (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sJnXgKuYmkkbHqNGAafTK8U22xF.jpg" group-title="PUNJABI MOVIES",Golak Bugni Bank Te Batua (2018)
+http://xott.live:8080/movie/57395373/73572926/211305.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Golgappe (2023) " tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="PUNJABI MOVIES",Golgappe (2023) 
+http://xott.live:8080/movie/57395373/73572926/316003.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Guddiyan Patole (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rtmaiFKNmNJPZLH8BoU6e4ACIsg.jpg" group-title="PUNJABI MOVIES",Guddiyan Patole (2019)
+http://xott.live:8080/movie/57395373/73572926/211265.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Gudiya (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8hwiLYVqVXyVdQELAiTFhQTkIUw.jpg" group-title="PUNJABI MOVIES",Gudiya (2023)
+http://xott.live:8080/movie/57395373/73572926/373034.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Gunga Pehalwan (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="PUNJABI MOVIES",Gunga Pehalwan (2022)
+http://xott.live:8080/movie/57395373/73572926/270520.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Gurmukh (2025)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jLaycshCtw5RSRGErVHfpi3a7rp.jpg" group-title="PUNJABI MOVIES",Gurmukh (2025)
+http://xott.live:8080/movie/57395373/73572926/390118.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Guru Da Banda (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="PUNJABI MOVIES",Guru Da Banda (2018)
+http://xott.live:8080/movie/57395373/73572926/211306.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Halla Ho (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/s0Ja7m3eTlactAxo5l1D0yznMJ7.jpg" group-title="PUNJABI MOVIES",Halla Ho (2017)
+http://xott.live:8080/movie/57395373/73572926/211365.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Happy Go Lucky (2014)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xgw5lNfgWBLkeb0yBbVpyarQOBI.jpg" group-title="PUNJABI MOVIES",Happy Go Lucky (2014)
+http://xott.live:8080/movie/57395373/73572926/377848.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Happy Happy Ho Gaya (2021)  " tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="PUNJABI MOVIES",Happy Happy Ho Gaya (2021)  
+http://xott.live:8080/movie/57395373/73572926/211363.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Hasrat (2025)" tvg-logo="https://i.ibb.co/0VDzdN31/Hasrat-2025-Movie-Poster.jpg" group-title="PUNJABI MOVIES",Hasrat (2025)
+http://xott.live:8080/movie/57395373/73572926/390080.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Haterz (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9edkcUFjhormiIyJuPPOSHIvSde.jpg" group-title="PUNJABI MOVIES",Haterz (2022)
+http://xott.live:8080/movie/57395373/73572926/234339.mkv
+#EXTINF:-1 tvg-id="" tvg-name="HAWA (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="PUNJABI MOVIES",HAWA (2023)
+http://xott.live:8080/movie/57395373/73572926/372282.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Haweli Wale (2021) " tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="PUNJABI MOVIES",Haweli Wale (2021) 
+http://xott.live:8080/movie/57395373/73572926/247375.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Haye Bibiye Kithe Fas Gaye (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uSdc9BTbVPtT7fpCpC5VwN9nC5x.jpg" group-title="PUNJABI MOVIES",Haye Bibiye Kithe Fas Gaye (2024)
+http://xott.live:8080/movie/57395373/73572926/384701.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Hey Siri Ve Siri (1970)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zrT1foMWh5Ax0GNWQXX8NZpAOoh.jpg" group-title="PUNJABI MOVIES",Hey Siri Ve Siri (1970)
+http://xott.live:8080/movie/57395373/73572926/384760.mkv
+#EXTINF:-1 tvg-id="" tvg-name="High End Yaariyaan (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pZyrzwRjx95tsNqMMQdh4fKCTYs.jpg" group-title="PUNJABI MOVIES",High End Yaariyaan (2019)
+http://xott.live:8080/movie/57395373/73572926/211381.mkv
+#EXTINF:-1 tvg-id="" tvg-name="High School Love (2023) " tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="PUNJABI MOVIES",High School Love (2023) 
+http://xott.live:8080/movie/57395373/73572926/373157.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Honeymoon (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="PUNJABI MOVIES",Honeymoon (2022)
+http://xott.live:8080/movie/57395373/73572926/285264.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Honsla Rakh (2021) " tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2qyTW8y0GR2LNgSbPUZfbbxXPyy.jpg" group-title="PUNJABI MOVIES",Honsla Rakh (2021) 
+http://xott.live:8080/movie/57395373/73572926/220089.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Ik Sandhu Hunda Si (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/93h2PcYpZjGxJQ84LmBNO54EvxX.jpg" group-title="PUNJABI MOVIES",Ik Sandhu Hunda Si (2020)
+http://xott.live:8080/movie/57395373/73572926/211280.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Ikko-Mikke (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="PUNJABI MOVIES",Ikko-Mikke (2020)
+http://xott.live:8080/movie/57395373/73572926/211279.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Ishq Brandy (2014)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vSn4mFvsCrkkbCwQNKo8efN87xi.jpg" group-title="PUNJABI MOVIES",Ishq Brandy (2014)
+http://xott.live:8080/movie/57395373/73572926/211307.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Ishqaa (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="PUNJABI MOVIES",Ishqaa (2019)
+http://xott.live:8080/movie/57395373/73572926/211348.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Jaan To Pyara (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="PUNJABI MOVIES",Jaan To Pyara (2020)
+http://xott.live:8080/movie/57395373/73572926/211371.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Jaddi Sardar (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ldTz8oeAfuiKUS3Z1P97R8rIym5.jpg" group-title="PUNJABI MOVIES",Jaddi Sardar (2019)
+http://xott.live:8080/movie/57395373/73572926/211308.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Jagga Jagravan Joga (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="PUNJABI MOVIES",Jagga Jagravan Joga (2020)
+http://xott.live:8080/movie/57395373/73572926/211373.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Jagga Jiunda E (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="PUNJABI MOVIES",Jagga Jiunda E (2018)
+http://xott.live:8080/movie/57395373/73572926/211309.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Jal Wayu Enclave (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vNY368XmKHJNElkQedbqmXwxmr1.jpg" group-title="PUNJABI MOVIES",Jal Wayu Enclave (2022)
+http://xott.live:8080/movie/57395373/73572926/234337.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Jamraud (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5Mqdi5H9hVjklPMMA9t9U06hrKQ.jpg" group-title="PUNJABI MOVIES",Jamraud (2021)
+http://xott.live:8080/movie/57395373/73572926/220778.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Jaspal (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="PUNJABI MOVIES",Jaspal (2024)
+http://xott.live:8080/movie/57395373/73572926/375309.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Jatt & Juliet (2012)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sWheGtsztva6pVksRorg0mWC1M6.jpg" group-title="PUNJABI MOVIES",Jatt & Juliet (2012)
+http://xott.live:8080/movie/57395373/73572926/211310.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Jatt & Juliet 3 (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sZl16hpuT09oVWPhL3JeRRUfTOf.jpg" group-title="PUNJABI MOVIES",Jatt & Juliet 3 (2024)
+http://xott.live:8080/movie/57395373/73572926/379058.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Jatt Brothers (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rsrlhtzsOP7bXTDMER9SSCzRpT3.jpg" group-title="PUNJABI MOVIES",Jatt Brothers (2022)
+http://xott.live:8080/movie/57395373/73572926/245226.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Jatt James Bond (2014)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kgeAS28rBZJSEVypaKpEaI4wunn.jpg" group-title="PUNJABI MOVIES",Jatt James Bond (2014)
+http://xott.live:8080/movie/57395373/73572926/211311.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Jatt Jugadi Hunday Nay (2019) " tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="PUNJABI MOVIES",Jatt Jugadi Hunday Nay (2019) 
+http://xott.live:8080/movie/57395373/73572926/220391.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Jatt Nuu Chudail Takri (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="PUNJABI MOVIES",Jatt Nuu Chudail Takri (2024)
+http://xott.live:8080/movie/57395373/73572926/378823.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Jatt vs. Ielts (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ohaSE2CGXw2ywzucXiJTowURehZ.jpg" group-title="PUNJABI MOVIES",Jatt vs. Ielts (2018)
+http://xott.live:8080/movie/57395373/73572926/211312.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Jatta Dolie Naa (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="PUNJABI MOVIES",Jatta Dolie Naa (2024)
+http://xott.live:8080/movie/57395373/73572926/375857.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Jatti 15 Murrabean Wali (2024)" tvg-logo="https://fs1.extraimage.org/picupto/2025/01/09/Screenshot-2025-01-09-at-14-57-11-jatti-15-murrabean-wali-et00385320-1706604287.jpg-JPEG-Image-500--750-pixels--Scaled-78.png" group-title="PUNJABI MOVIES",Jatti 15 Murrabean Wali (2024)
+http://xott.live:8080/movie/57395373/73572926/388977.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Jattu Nikhattu (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dZfz37pcyIipG9L9UCJfEfaHp8s.jpg" group-title="PUNJABI MOVIES",Jattu Nikhattu (2023)
+http://xott.live:8080/movie/57395373/73572926/369681.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Jawai Bhai (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/s0Eq789CTGJzX3qWERHOPjmjNiJ.jpg" group-title="PUNJABI MOVIES",Jawai Bhai (2023)
+http://xott.live:8080/movie/57395373/73572926/363053.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Je jatt Vigarh gya (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="PUNJABI MOVIES",Je jatt Vigarh gya (2024)
+http://xott.live:8080/movie/57395373/73572926/384502.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Je Tere Naal Pyar Na Hunda (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="PUNJABI MOVIES",Je Tere Naal Pyar Na Hunda (2022)
+http://xott.live:8080/movie/57395373/73572926/311815.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Jee Ve Sohneya Jee (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/m8WjCW7aJxMC3tRNlaObVhYi3gQ.jpg" group-title="PUNJABI MOVIES",Jee Ve Sohneya Jee (2024)
+http://xott.live:8080/movie/57395373/73572926/377216.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Jhalle (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/t7TFBNketq5Dr7L2kfHLmnEzsrU.jpg" group-title="PUNJABI MOVIES",Jhalle (2019)
+http://xott.live:8080/movie/57395373/73572926/211358.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Jhalle Pai Gaye Palle (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/urxiiPQoBy6iZEVRERWgbeZF4Ov.jpg" group-title="PUNJABI MOVIES",Jhalle Pai Gaye Palle (2022)
+http://xott.live:8080/movie/57395373/73572926/222240.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Ji Wife Ji (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1fySMeVGob1mnH5fR4oNd7udMfz.jpg" group-title="PUNJABI MOVIES",Ji Wife Ji (2023)
+http://xott.live:8080/movie/57395373/73572926/342084.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Jind Jaan (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2DO9mfckZdvg0WbtVEqcD8bkOfA.jpg" group-title="PUNJABI MOVIES",Jind Jaan (2019)
+http://xott.live:8080/movie/57395373/73572926/211355.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Jinde Meriye (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uJPsPV19fkBUbINhrjzUturcyW6.jpg" group-title="PUNJABI MOVIES",Jinde Meriye (2020)
+http://xott.live:8080/movie/57395373/73572926/211385.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Jindra (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/A7thBIZpZcQqGvirB4j7Q2EoCzn.jpg" group-title="PUNJABI MOVIES",Jindra (2022)
+http://xott.live:8080/movie/57395373/73572926/221455.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Jindua (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/epLtHaL0Hyh4dOMAlXs0NyIDlDV.jpg" group-title="PUNJABI MOVIES",Jindua (2017)
+http://xott.live:8080/movie/57395373/73572926/211340.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Jinne Jamme Saare Nikamme (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="PUNJABI MOVIES",Jinne Jamme Saare Nikamme (2021)
+http://xott.live:8080/movie/57395373/73572926/219732.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Jonde Raho Bhoot Ji (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="PUNJABI MOVIES",Jonde Raho Bhoot Ji (2024)
+http://xott.live:8080/movie/57395373/73572926/378562.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Jora 10 Numbaria (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oGkibWXsOlS1q9aL8xE7ZYZh9h.jpg" group-title="PUNJABI MOVIES",Jora 10 Numbaria (2017)
+http://xott.live:8080/movie/57395373/73572926/211249.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Jora: The Second Chapter (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zaFyVgX6ApAlQpJrACt9wzPbjSd.jpg" group-title="PUNJABI MOVIES",Jora: The Second Chapter (2020)
+http://xott.live:8080/movie/57395373/73572926/211281.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Jugni Yaaran Di (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8F6iCee7bMXuciTPyyNiykXIXVt.jpg" group-title="PUNJABI MOVIES",Jugni Yaaran Di (2019)
+http://xott.live:8080/movie/57395373/73572926/211313.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Junior (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="PUNJABI MOVIES",Junior (2023)
+http://xott.live:8080/movie/57395373/73572926/375571.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Kaake Da Viyah (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3a6VOHuMeNLtTSVsOmpFmnVy9Ux.jpg" group-title="PUNJABI MOVIES",Kaake Da Viyah (2019)
+http://xott.live:8080/movie/57395373/73572926/211314.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Kade Dade Diyan Kade Pote Diyan (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="PUNJABI MOVIES",Kade Dade Diyan Kade Pote Diyan (2023)
+http://xott.live:8080/movie/57395373/73572926/374308.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Kade Haan Kade Naa (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3kNtGKbTISMANY8ILZR3WWpTQ46.jpg" group-title="PUNJABI MOVIES",Kade Haan Kade Naa (2021)
+http://xott.live:8080/movie/57395373/73572926/220212.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Kaka Pardhan (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/c1i4ClA7EvyCZjFUh1aeEnzEHS4.jpg" group-title="PUNJABI MOVIES",Kaka Pardhan (2021)
+http://xott.live:8080/movie/57395373/73572926/250691.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Kala Shah Kala (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qeN6oSKUrE3pYOskulMIhvk3a9z.jpg" group-title="PUNJABI MOVIES",Kala Shah Kala (2019)
+http://xott.live:8080/movie/57395373/73572926/211266.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Kali Jotta (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aJlvuwsWLlPtqPW5127tJmemhLF.jpg" group-title="PUNJABI MOVIES",Kali Jotta (2023)
+http://xott.live:8080/movie/57395373/73572926/341157.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Kawela (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ycItH82h9d4wCb1mQ5X8G4qeT0v.jpg" group-title="PUNJABI MOVIES",Kawela (2017)
+http://xott.live:8080/movie/57395373/73572926/211384.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Khaao Piyo Aish Karo (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="PUNJABI MOVIES",Khaao Piyo Aish Karo (2022)
+http://xott.live:8080/movie/57395373/73572926/270765.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Khatre Da Ghuggu (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/o02pnMgWr0Msq22A55IotoOAN9s.jpg" group-title="PUNJABI MOVIES",Khatre Da Ghuggu (2020)
+http://xott.live:8080/movie/57395373/73572926/211367.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Ki Mein Jhoot Boleya (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="PUNJABI MOVIES",Ki Mein Jhoot Boleya (2023)
+http://xott.live:8080/movie/57395373/73572926/323770.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Ki Mein Jhooth Boleya 2023" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="PUNJABI MOVIES",Ki Mein Jhooth Boleya 2023
+http://xott.live:8080/movie/57395373/73572926/356470.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Kismat Love Paisa Dilli (2012)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/eIS4r5qxObYgO44ShFSw94cFEAU.jpg" group-title="PUNJABI MOVIES",Kismat Love Paisa Dilli (2012)
+http://xott.live:8080/movie/57395373/73572926/383206.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Kitty Party (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="PUNJABI MOVIES",Kitty Party (2019)
+http://xott.live:8080/movie/57395373/73572926/211343.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Kokka (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/eHJwcEnVurf95mLBKyaGydLiOoL.jpg" group-title="PUNJABI MOVIES",Kokka (2022)
+http://xott.live:8080/movie/57395373/73572926/247374.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Kudi Haryane Val Di (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hTtxyMKQLh7u57gnUmGCbaSR9Yt.jpg" group-title="PUNJABI MOVIES",Kudi Haryane Val Di (2024)
+http://xott.live:8080/movie/57395373/73572926/378793.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Kuriyan Jawan Bapu Preshaan (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/g682EwEzJbl1nF3Rj0TvksEGx4e.jpg" group-title="PUNJABI MOVIES",Kuriyan Jawan Bapu Preshaan (2021)
+http://xott.live:8080/movie/57395373/73572926/211383.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Kurmaiyan (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="PUNJABI MOVIES",Kurmaiyan (2018)
+http://xott.live:8080/movie/57395373/73572926/211378.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Kutte Fail (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tJ8hNPSU1HVJVqnew91CRUS70tZ.jpg" group-title="PUNJABI MOVIES",Kutte Fail (2021)
+http://xott.live:8080/movie/57395373/73572926/217583.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Laatu (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="PUNJABI MOVIES",Laatu (2018)
+http://xott.live:8080/movie/57395373/73572926/211315.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Lag Gaye (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="PUNJABI MOVIES",Lag Gaye (2024)
+http://xott.live:8080/movie/57395373/73572926/380625.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Lahoriye (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nWRhVSejbIV708nOBwgRAVi50wA.jpg" group-title="PUNJABI MOVIES",Lahoriye (2017)
+http://xott.live:8080/movie/57395373/73572926/211316.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Lai Lag (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="PUNJABI MOVIES",Lai Lag (2020)
+http://xott.live:8080/movie/57395373/73572926/211375.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Laiye Je Yaarian (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zXRsiwdffZUZceDeaYRerzI2xqP.jpg" group-title="PUNJABI MOVIES",Laiye Je Yaarian (2019)
+http://xott.live:8080/movie/57395373/73572926/211379.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Lakeeran (2016)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/d8EFojqn2vyYzHqpZ5Ngj5EOiYe.jpg" group-title="PUNJABI MOVIES",Lakeeran (2016)
+http://xott.live:8080/movie/57395373/73572926/211341.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Lambran da Laana (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/celOuj6UWeElwaDfF1gAJWltDA5.jpg" group-title="PUNJABI MOVIES",Lambran da Laana (2024)
+http://xott.live:8080/movie/57395373/73572926/383383.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Lanka (2022) " tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="PUNJABI MOVIES",Lanka (2022) 
+http://xott.live:8080/movie/57395373/73572926/283150.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Laung Laachi (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sKhQskX0GViGmXY4Ap5JUEYQBE1.jpg" group-title="PUNJABI MOVIES",Laung Laachi (2018)
+http://xott.live:8080/movie/57395373/73572926/211317.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Laung Laachi 2 (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5OjFhQPUVXBO8Pf4LO2tdsdpsZ4.jpg" group-title="PUNJABI MOVIES",Laung Laachi 2 (2022)
+http://xott.live:8080/movie/57395373/73572926/268692.mkv
+#EXTINF:-1 tvg-id="" tvg-name="LehmberGinni (2023) " tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="PUNJABI MOVIES",LehmberGinni (2023) 
+http://xott.live:8080/movie/57395373/73572926/345540.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Lekh (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xUQK8J7RrDRxdd00oGOM55KjJzg.jpg" group-title="PUNJABI MOVIES",Lekh (2022)
+http://xott.live:8080/movie/57395373/73572926/246597.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Love Punjab (2016)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bF06yKyalpwb9LIHhrr8ue0IuFc.jpg" group-title="PUNJABI MOVIES",Love Punjab (2016)
+http://xott.live:8080/movie/57395373/73572926/211255.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Lover (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="PUNJABI MOVIES",Lover (2022)
+http://xott.live:8080/movie/57395373/73572926/253612.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Lovestaan (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="PUNJABI MOVIES",Lovestaan (2023)
+http://xott.live:8080/movie/57395373/73572926/318584.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Lucky Scheme (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="PUNJABI MOVIES",Lucky Scheme (2024)
+http://xott.live:8080/movie/57395373/73572926/377666.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Maa Da Ladla (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="PUNJABI MOVIES",Maa Da Ladla (2022)
+http://xott.live:8080/movie/57395373/73572926/304904.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Mahi Mera Nikka Jeha (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5b5rd0anRuWf7pbdqvVm6GJzvrD.jpg" group-title="PUNJABI MOVIES",Mahi Mera Nikka Jeha (2022)
+http://xott.live:8080/movie/57395373/73572926/263514.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Mahi NRI (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="PUNJABI MOVIES",Mahi NRI (2017)
+http://xott.live:8080/movie/57395373/73572926/211342.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Main Te Bapu (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="PUNJABI MOVIES",Main Te Bapu (2022)
+http://xott.live:8080/movie/57395373/73572926/251361.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Main Teri Tu Mera (2016)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gCo5S07aZlwoJv6yOyhUpFQPWxB.jpg" group-title="PUNJABI MOVIES",Main Teri Tu Mera (2016)
+http://xott.live:8080/movie/57395373/73572926/211374.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Main Viyah Nahi Karona Tere Naal (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="PUNJABI MOVIES",Main Viyah Nahi Karona Tere Naal (2022)
+http://xott.live:8080/movie/57395373/73572926/245265.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Majajan Orchestra (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cWeTgZ4kLSkwIxHIaEIRXL6p47T.jpg" group-title="PUNJABI MOVIES",Majajan Orchestra (2022)
+http://xott.live:8080/movie/57395373/73572926/263468.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Majhail (2025)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/b7OSIqomkkxwnCEVsMSD5M4HT4e.jpg" group-title="PUNJABI MOVIES",Majhail (2025)
+http://xott.live:8080/movie/57395373/73572926/390126.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Manje Bistre 2 (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ghUJt13ituoiZysa6hMJTH9w8s4.jpg" group-title="PUNJABI MOVIES",Manje Bistre 2 (2019)
+http://xott.live:8080/movie/57395373/73572926/211262.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Mansooba (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zywCat3fBmqdFT75i1A9JY10v8G.jpg" group-title="PUNJABI MOVIES",Mansooba (2024)
+http://xott.live:8080/movie/57395373/73572926/375688.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Mar Gaye Oye Loko (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wxdSRcRI2rJaFwgoaERkaznm7KK.jpg" group-title="PUNJABI MOVIES",Mar Gaye Oye Loko (2018)
+http://xott.live:8080/movie/57395373/73572926/211387.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Marjaney (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="PUNJABI MOVIES",Marjaney (2021)
+http://xott.live:8080/movie/57395373/73572926/220779.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Marriage Palace (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vjCOUHM144Ok3CLrdUSrp3ccMPD.jpg" group-title="PUNJABI MOVIES",Marriage Palace (2018)
+http://xott.live:8080/movie/57395373/73572926/211318.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Masand (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="PUNJABI MOVIES",Masand (2022)
+http://xott.live:8080/movie/57395373/73572926/315400.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Mastaney (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8vrlTSiMcNlnCQn6oNcgbbKbSn3.jpg" group-title="PUNJABI MOVIES",Mastaney (2023)
+http://xott.live:8080/movie/57395373/73572926/372611.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Maurh (2023) " tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iquQ6ihPM2WhHhUnJPc5CfGT1x1.jpg" group-title="PUNJABI MOVIES",Maurh (2023) 
+http://xott.live:8080/movie/57395373/73572926/368910.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Medal (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tDeZERQL4RRs4mVmYigEBMebfpz.jpg" group-title="PUNJABI MOVIES",Medal (2023)
+http://xott.live:8080/movie/57395373/73572926/345554.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Mehkma Chhadeyan Da (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6lJGU8MpKLY0PtKwM4ruSr3vDW5.jpg" group-title="PUNJABI MOVIES",Mehkma Chhadeyan Da (2024)
+http://xott.live:8080/movie/57395373/73572926/378455.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Mera Baba Nanak (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zeTFGgNiWhFYeydUO4N61G1apJ1.jpg" group-title="PUNJABI MOVIES",Mera Baba Nanak (2023)
+http://xott.live:8080/movie/57395373/73572926/344955.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Mera Vyah Kara Do (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zOZnSt8LCWXZVnZOVeiIc9iFfLE.jpg" group-title="PUNJABI MOVIES",Mera Vyah Kara Do (2022)
+http://xott.live:8080/movie/57395373/73572926/234340.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Minda Lalari (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="PUNJABI MOVIES",Minda Lalari (2023)
+http://xott.live:8080/movie/57395373/73572926/372049.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Mindo Taseeldarni (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/b2zX2a8vklbGiCVsUTZ04pNvLeO.jpg" group-title="PUNJABI MOVIES",Mindo Taseeldarni (2019)
+http://xott.live:8080/movie/57395373/73572926/211319.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Mining: Reyte Te Kabzaa (2023) " tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="PUNJABI MOVIES",Mining: Reyte Te Kabzaa (2023) 
+http://xott.live:8080/movie/57395373/73572926/344552.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Mirza: The Untold Story (2012)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lktXxuXVNps5mJvsAx1UPvMncgv.jpg" group-title="PUNJABI MOVIES",Mirza: The Untold Story (2012)
+http://xott.live:8080/movie/57395373/73572926/362626.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Mitran Da Naa Chalda (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bnMh2FgMf99nW87U0vPCNpTvi2i.jpg" group-title="PUNJABI MOVIES",Mitran Da Naa Chalda (2023)
+http://xott.live:8080/movie/57395373/73572926/341161.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Mitran Nu Shaunk Hathyaran Da (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3Qpa804AavAFF1xMCu7cAOjLsu2.jpg" group-title="PUNJABI MOVIES",Mitran Nu Shaunk Hathyaran Da (2019)
+http://xott.live:8080/movie/57395373/73572926/211361.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Moh (2025)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/22bZLBYC3zI5AZrx740ne0bQVeo.jpg" group-title="PUNJABI MOVIES",Moh (2025)
+http://xott.live:8080/movie/57395373/73572926/276386.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Moosa Jatt (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="PUNJABI MOVIES",Moosa Jatt (2021)
+http://xott.live:8080/movie/57395373/73572926/220211.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Mother (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="PUNJABI MOVIES",Mother (2022)
+http://xott.live:8080/movie/57395373/73572926/268099.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Motor Mitraan Di (2016)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="PUNJABI MOVIES",Motor Mitraan Di (2016)
+http://xott.live:8080/movie/57395373/73572926/378381.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Mr & Mrs 420 Returns (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="PUNJABI MOVIES",Mr & Mrs 420 Returns (2018)
+http://xott.live:8080/movie/57395373/73572926/211320.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Munda Faridkotia (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/a49XiOw7Gxk3nzFdYDE3PMzN4Dm.jpg" group-title="PUNJABI MOVIES",Munda Faridkotia (2019)
+http://xott.live:8080/movie/57395373/73572926/211321.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Munda Hi Chahida (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/quat3FfrhoKRvmnF2bSoKm0XOvD.jpg" group-title="PUNJABI MOVIES",Munda Hi Chahida (2019)
+http://xott.live:8080/movie/57395373/73572926/211243.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Munda Rockstar (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="PUNJABI MOVIES",Munda Rockstar (2023)
+http://xott.live:8080/movie/57395373/73572926/374430.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Munda Rockstar (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="PUNJABI MOVIES",Munda Rockstar (2024)
+http://xott.live:8080/movie/57395373/73572926/376166.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Munda Southall Da (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="PUNJABI MOVIES",Munda Southall Da (2023)
+http://xott.live:8080/movie/57395373/73572926/369689.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Nadhoo Khan (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/c4i9DNzCFF4d3PnLxZDahQPTvCx.jpg" group-title="PUNJABI MOVIES",Nadhoo Khan (2019)
+http://xott.live:8080/movie/57395373/73572926/211267.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Nanak Naam Jahaz Hai (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="PUNJABI MOVIES",Nanak Naam Jahaz Hai (2024)
+http://xott.live:8080/movie/57395373/73572926/378327.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Nanak Shah Fakir (2014)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vNaMEQOIA6byZM9J0BoDqsyuScj.jpg" group-title="PUNJABI MOVIES",Nanak Shah Fakir (2014)
+http://xott.live:8080/movie/57395373/73572926/211248.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Nankana (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="PUNJABI MOVIES",Nankana (2018)
+http://xott.live:8080/movie/57395373/73572926/211386.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Nasibpura (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="PUNJABI MOVIES",Nasibpura (2024)
+http://xott.live:8080/movie/57395373/73572926/387977.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Ni Main Sass Kutni. (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="PUNJABI MOVIES",Ni Main Sass Kutni. (2022)
+http://xott.live:8080/movie/57395373/73572926/246293.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Ni Main Sass Kuttni 2 (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nkInS6oDku7r7UzTSWjVoVcYboN.jpg" group-title="PUNJABI MOVIES",Ni Main Sass Kuttni 2 (2024)
+http://xott.live:8080/movie/57395373/73572926/388436.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Nidarr (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4lAhOgUZgUzFvwYCbEvXw0v8GbN.jpg" group-title="PUNJABI MOVIES",Nidarr (2023)
+http://xott.live:8080/movie/57395373/73572926/382978.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Nikka Zaildar 2 (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vdlCP4XQJ2S0E6q5r2OZ9TBXFvr.jpg" group-title="PUNJABI MOVIES",Nikka Zaildar 2 (2017)
+http://xott.live:8080/movie/57395373/73572926/211268.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Nikka Zaildar 3 (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/msWQ51cB0H25sYHTmkAp4sQfVdP.jpg" group-title="PUNJABI MOVIES",Nikka Zaildar 3 (2019)
+http://xott.live:8080/movie/57395373/73572926/211244.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Nishana (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pUTYxbp4SZUXNwILB6LcHVpqq6W.jpg" group-title="PUNJABI MOVIES",Nishana (2022)
+http://xott.live:8080/movie/57395373/73572926/312595.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Oye Bhole Oye (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6HvD6h7FlXgSkoT8urSL8rK9xJ.jpg" group-title="PUNJABI MOVIES",Oye Bhole Oye (2024)
+http://xott.live:8080/movie/57395373/73572926/375193.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Oye Chandigarh Chaliye (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="PUNJABI MOVIES",Oye Chandigarh Chaliye (2023)
+http://xott.live:8080/movie/57395373/73572926/368912.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Oye Makhna (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="PUNJABI MOVIES",Oye Makhna (2022)
+http://xott.live:8080/movie/57395373/73572926/301108.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Paani Ch Madhaani (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6pv6nTPKvbN9UvKXmTJEkaMNtVD.jpg" group-title="PUNJABI MOVIES",Paani Ch Madhaani (2021)
+http://xott.live:8080/movie/57395373/73572926/221301.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Padma Shri Kaur Singh (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="PUNJABI MOVIES",Padma Shri Kaur Singh (2022)
+http://xott.live:8080/movie/57395373/73572926/268098.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Painter (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jrXUwbhtgCDtTjwTtqeNJk15kt4.jpg" group-title="PUNJABI MOVIES",Painter (2022)
+http://xott.live:8080/movie/57395373/73572926/372536.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Parahuna (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7IshmiQAflfZX6wf7tpU9oron1.jpg" group-title="PUNJABI MOVIES",Parahuna (2018)
+http://xott.live:8080/movie/57395373/73572926/211322.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Parahuna 2 (2024) " tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="PUNJABI MOVIES",Parahuna 2 (2024) 
+http://xott.live:8080/movie/57395373/73572926/376975.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Parinda Paar Geyaa (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="PUNJABI MOVIES",Parinda Paar Geyaa (2023)
+http://xott.live:8080/movie/57395373/73572926/373058.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Parshawan (2024) " tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="PUNJABI MOVIES",Parshawan (2024) 
+http://xott.live:8080/movie/57395373/73572926/379106.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Patel Ki Punjabi Shaadi (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nNj2PPUeN0nHXSveCDwBPZX29xX.jpg" group-title="PUNJABI MOVIES",Patel Ki Punjabi Shaadi (2017)
+http://xott.live:8080/movie/57395373/73572926/211252.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Paune 9 (2023) " tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="PUNJABI MOVIES",Paune 9 (2023) 
+http://xott.live:8080/movie/57395373/73572926/369690.mkv
+#EXTINF:-1 tvg-id="" tvg-name="PB0931 (2022) " tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="PUNJABI MOVIES",PB0931 (2022) 
+http://xott.live:8080/movie/57395373/73572926/275735.mkv
+#EXTINF:-1 tvg-id="" tvg-name="PHD Pyaar Hai Drama (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3mAokUd3cphHNS92bFzkD4JtFkZ.jpg" group-title="PUNJABI MOVIES",PHD Pyaar Hai Drama (2023)
+http://xott.live:8080/movie/57395373/73572926/312552.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Pind Aala School (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lj9e9EDk7PC15LzFs1gIgiTtfUq.jpg" group-title="PUNJABI MOVIES",Pind Aala School (2024)
+http://xott.live:8080/movie/57395373/73572926/379228.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Pind America (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="PUNJABI MOVIES",Pind America (2023)
+http://xott.live:8080/movie/57395373/73572926/373264.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Pinky Moge Wali 2 (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="PUNJABI MOVIES",Pinky Moge Wali 2 (2021)
+http://xott.live:8080/movie/57395373/73572926/219672.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Please Kill Me (2021) " tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="PUNJABI MOVIES",Please Kill Me (2021) 
+http://xott.live:8080/movie/57395373/73572926/219056.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Proper Patola (2014)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="PUNJABI MOVIES",Proper Patola (2014)
+http://xott.live:8080/movie/57395373/73572926/211323.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Puaada (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fFRooZTSlx1gAGluko7bRXaflUF.jpg" group-title="PUNJABI MOVIES",Puaada (2021)
+http://xott.live:8080/movie/57395373/73572926/217888.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Punjab 1984 (2014)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yJcg6qaDFok73SC353u4oEYpkvF.jpg" group-title="PUNJABI MOVIES",Punjab 1984 (2014)
+http://xott.live:8080/movie/57395373/73572926/374168.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Punjab Singh (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nbAoWEsppBI0dLK8SdegZ0BXeui.jpg" group-title="PUNJABI MOVIES",Punjab Singh (2018)
+http://xott.live:8080/movie/57395373/73572926/211324.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Punjabi By Nature (2024) " tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3LzybM7pbjeGge1bDTA5LLtkpg.jpg" group-title="PUNJABI MOVIES",Punjabi By Nature (2024) 
+http://xott.live:8080/movie/57395373/73572926/378189.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Qismat (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nlvV8hF1YCVazGg8PiLO004I2of.jpg" group-title="PUNJABI MOVIES",Qismat (2018)
+http://xott.live:8080/movie/57395373/73572926/211275.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Qismat 2 (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tze9VKYpS02E0h6A0RvSb9jw6FI.jpg" group-title="PUNJABI MOVIES",Qismat 2 (2021)
+http://xott.live:8080/movie/57395373/73572926/219673.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Rab Di Mehhar (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="PUNJABI MOVIES",Rab Di Mehhar (2023)
+http://xott.live:8080/movie/57395373/73572926/371246.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Rabb Da Radio 2 (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1jmBM8n7onKt9RbK9yJkkr4GJIM.jpg" group-title="PUNJABI MOVIES",Rabb Da Radio 2 (2019)
+http://xott.live:8080/movie/57395373/73572926/211269.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Rabba Rabba Meeh Varsa (2022) " tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="PUNJABI MOVIES",Rabba Rabba Meeh Varsa (2022) 
+http://xott.live:8080/movie/57395373/73572926/272461.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Rang Panjab (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/61mAO8c5CHfOqeli9rH3sXFoLJ9.jpg" group-title="PUNJABI MOVIES",Rang Panjab (2018)
+http://xott.live:8080/movie/57395373/73572926/219800.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Rang Ratta (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iNlSGsu2mk9RMBEZP7hGiymBqWe.jpg" group-title="PUNJABI MOVIES",Rang Ratta (2023)
+http://xott.live:8080/movie/57395373/73572926/356472.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Ranj (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="PUNJABI MOVIES",Ranj (2022)
+http://xott.live:8080/movie/57395373/73572926/308577.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Ranjha Refugee (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sAvEatAaN3Et9Da1DcjgDy5Ag3o.jpg" group-title="PUNJABI MOVIES",Ranjha Refugee (2018)
+http://xott.live:8080/movie/57395373/73572926/211356.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Rocky Mental (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3yi124OFigEzuGmrH2sboUuLEna.jpg" group-title="PUNJABI MOVIES",Rocky Mental (2017)
+http://xott.live:8080/movie/57395373/73572926/211360.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Rode College (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nVj9xz2DE9omF9rUeMdaddSnFJN.jpg" group-title="PUNJABI MOVIES",Rode College (2024)
+http://xott.live:8080/movie/57395373/73572926/382086.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Ronde Sare Vyah Picho (2013)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="PUNJABI MOVIES",Ronde Sare Vyah Picho (2013)
+http://xott.live:8080/movie/57395373/73572926/211366.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Rose Rosy Te Gulab (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bEqaYV7ot99eQA22xPW8khovNfl.jpg" group-title="PUNJABI MOVIES",Rose Rosy Te Gulab (2024)
+http://xott.live:8080/movie/57395373/73572926/383651.mkv
+#EXTINF:-1 tvg-id="" tvg-name="S.H.0 Sher Singh (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="PUNJABI MOVIES",S.H.0 Sher Singh (2022)
+http://xott.live:8080/movie/57395373/73572926/279655.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Saak (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5d1XM20IDHFnYQIPbGCohtVzYrR.jpg" group-title="PUNJABI MOVIES",Saak (2019)
+http://xott.live:8080/movie/57395373/73572926/211276.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Sab fade jange (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="PUNJABI MOVIES",Sab fade jange (2023)
+http://xott.live:8080/movie/57395373/73572926/312197.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Saka: The Martyrs of Nankana Sahib (2016)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="PUNJABI MOVIES",Saka: The Martyrs of Nankana Sahib (2016)
+http://xott.live:8080/movie/57395373/73572926/211253.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Sandookadee (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6LE9LIyakjsF0JsuvJFwG8jyPGf.jpg" group-title="PUNJABI MOVIES",Sandookadee (2024)
+http://xott.live:8080/movie/57395373/73572926/375948.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Sangrand (2024) " tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="PUNJABI MOVIES",Sangrand (2024) 
+http://xott.live:8080/movie/57395373/73572926/376120.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Sarabha (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="PUNJABI MOVIES",Sarabha (2023)
+http://xott.live:8080/movie/57395373/73572926/372658.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Sardaar Ji (2015) " tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="PUNJABI MOVIES",Sardaar Ji (2015) 
+http://xott.live:8080/movie/57395373/73572926/374344.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Sardaarji 2 (2016)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xqTok7CmflNocawmahbz9PX498j.jpg" group-title="PUNJABI MOVIES",Sardaarji 2 (2016)
+http://xott.live:8080/movie/57395373/73572926/211326.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Sardar Mohammad (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/znif778ztwOmKssPrXL0m42gU2Y.jpg" group-title="PUNJABI MOVIES",Sardar Mohammad (2017)
+http://xott.live:8080/movie/57395373/73572926/211327.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Sardara and Sons (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iMQCkvD29el8mMUUnv3CyDU3LWJ.jpg" group-title="PUNJABI MOVIES",Sardara and Sons (2023)
+http://xott.live:8080/movie/57395373/73572926/373895.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Sargi (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tpVdO1mcoz9zlLsDzR9rda59pbM.jpg" group-title="PUNJABI MOVIES",Sargi (2017)
+http://xott.live:8080/movie/57395373/73572926/211328.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Sass Meri Ne Munda Jameya (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="PUNJABI MOVIES",Sass Meri Ne Munda Jameya (2022)
+http://xott.live:8080/movie/57395373/73572926/251336.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Sat Shri Akaal England (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="PUNJABI MOVIES",Sat Shri Akaal England (2017)
+http://xott.live:8080/movie/57395373/73572926/211329.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Saunh Mitti Di (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7Uejz573CHd9vi3KMZ79VUsVgxw.jpg" group-title="PUNJABI MOVIES",Saunh Mitti Di (2023)
+http://xott.live:8080/movie/57395373/73572926/344452.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Saunkan Saunkne (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="PUNJABI MOVIES",Saunkan Saunkne (2022)
+http://xott.live:8080/movie/57395373/73572926/247066.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Shaatar (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iZQA4e4MGWdy3nMzVEaEQBiLpCZ.jpg" group-title="PUNJABI MOVIES",Shaatar (2023)
+http://xott.live:8080/movie/57395373/73572926/383934.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Shadaa (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/saZ5hon73b7BgbRWNpUC0h6uQM6.jpg" group-title="PUNJABI MOVIES",Shadaa (2019)
+http://xott.live:8080/movie/57395373/73572926/211330.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Shakkar Paare (2022) " tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="PUNJABI MOVIES",Shakkar Paare (2022) 
+http://xott.live:8080/movie/57395373/73572926/265051.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Shareek 2 (2022) " tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="PUNJABI MOVIES",Shareek 2 (2022) 
+http://xott.live:8080/movie/57395373/73572926/255111.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Shava Ni Girdhari Lal (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gUc9caZjPlMS068oOoJDGbIWif6.jpg" group-title="PUNJABI MOVIES",Shava Ni Girdhari Lal (2021)
+http://xott.live:8080/movie/57395373/73572926/221986.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Shayar (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/o7HqylCy4h8fY0LwgzC2MeYVqET.jpg" group-title="PUNJABI MOVIES",Shayar (2024)
+http://xott.live:8080/movie/57395373/73572926/379931.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Sher Bhagga (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="PUNJABI MOVIES",Sher Bhagga (2022)
+http://xott.live:8080/movie/57395373/73572926/253559.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Shinda Shinda No Papa (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="PUNJABI MOVIES",Shinda Shinda No Papa (2024)
+http://xott.live:8080/movie/57395373/73572926/378090.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Shooter (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aDbEoU2J0NSBePJsY7HQtKxt2Pl.jpg" group-title="PUNJABI MOVIES",Shooter (2020)
+http://xott.live:8080/movie/57395373/73572926/211250.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Shukrana (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fbV8FzJlLoz0d1IxX9KHI4E1be.jpg" group-title="PUNJABI MOVIES",Shukrana (2024)
+http://xott.live:8080/movie/57395373/73572926/388981.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Sidhus of Southall (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cg8csa9LlrT8MaLMIXoQrremliX.jpg" group-title="PUNJABI MOVIES",Sidhus of Southall (2023)
+http://xott.live:8080/movie/57395373/73572926/344950.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Sikander (2013)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/g9OA9BKat5OU1M7mBZe7RJ3QBno.jpg" group-title="PUNJABI MOVIES",Sikander (2013)
+http://xott.live:8080/movie/57395373/73572926/211331.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Sikander 2 (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qrFmOTr30jEeBlElzlBCevi1nNj.jpg" group-title="PUNJABI MOVIES",Sikander 2 (2019)
+http://xott.live:8080/movie/57395373/73572926/211376.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Singham (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uu0gplem6wDJZTWJGGcdo8FwmCQ.jpg" group-title="PUNJABI MOVIES",Singham (2019)
+http://xott.live:8080/movie/57395373/73572926/211332.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Sirre De Velle (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="PUNJABI MOVIES",Sirre De Velle (2023)
+http://xott.live:8080/movie/57395373/73572926/363404.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Siyasat (2021)  " tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7WA0Syfgd65u4DHxgJZHLYMF616.jpg" group-title="PUNJABI MOVIES",Siyasat (2021)  
+http://xott.live:8080/movie/57395373/73572926/211336.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Snowman (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="PUNJABI MOVIES",Snowman (2022)
+http://xott.live:8080/movie/57395373/73572926/307147.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Sohreyan Da Pind Aa Gaya (2022) " tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="PUNJABI MOVIES",Sohreyan Da Pind Aa Gaya (2022) 
+http://xott.live:8080/movie/57395373/73572926/255122.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Son of Manjeet Singh (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pjH1hOjHtgzpFjkpT119BIXspLe.jpg" group-title="PUNJABI MOVIES",Son of Manjeet Singh (2018)
+http://xott.live:8080/movie/57395373/73572926/211333.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Subedar Joginder Singh (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cINxBwZkqONXIGyDAintnXoDggV.jpg" group-title="PUNJABI MOVIES",Subedar Joginder Singh (2018)
+http://xott.live:8080/movie/57395373/73572926/211337.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Sucha Soorma (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xs0H0WOUTcP9vqRiYpaGNgRSjik.jpg" group-title="PUNJABI MOVIES",Sucha Soorma (2024)
+http://xott.live:8080/movie/57395373/73572926/384757.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Sufna (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ozso0mV2H6Yke5L6mgZnripGwez.jpg" group-title="PUNJABI MOVIES",Sufna (2020)
+http://xott.live:8080/movie/57395373/73572926/211261.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Super Punjabi (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="PUNJABI MOVIES",Super Punjabi (2023)
+http://xott.live:8080/movie/57395373/73572926/388107.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Surkhi Bindi (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fAa34JQTn7DRHObeBhwoYkRyIzh.jpg" group-title="PUNJABI MOVIES",Surkhi Bindi (2019)
+http://xott.live:8080/movie/57395373/73572926/211245.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Tabaah (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4pPftZSMQTDZEBvNOm8grNWF4Jt.jpg" group-title="PUNJABI MOVIES",Tabaah (2024)
+http://xott.live:8080/movie/57395373/73572926/390096.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Tabaahi Reloaded (2024) " tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="PUNJABI MOVIES",Tabaahi Reloaded (2024) 
+http://xott.live:8080/movie/57395373/73572926/377830.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Tara Mira (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7u9Cf72CGPFlNrhSMS4S0lwkV2a.jpg" group-title="PUNJABI MOVIES",Tara Mira (2019)
+http://xott.live:8080/movie/57395373/73572926/211338.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Taur Mittran Di (2012)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/u2UgxlDPPY0CsS9CPPVn1KodMlT.jpg" group-title="PUNJABI MOVIES",Taur Mittran Di (2012)
+http://xott.live:8080/movie/57395373/73572926/211346.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Taut (2022) " tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="PUNJABI MOVIES",Taut (2022) 
+http://xott.live:8080/movie/57395373/73572926/283871.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Teeja Punjab (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1uhdeWnAnSTeYO6zYjSph0jDrCs.jpg" group-title="PUNJABI MOVIES",Teeja Punjab (2021)
+http://xott.live:8080/movie/57395373/73572926/222239.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Television (2022) " tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="PUNJABI MOVIES",Television (2022) 
+http://xott.live:8080/movie/57395373/73572926/252557.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Teri Meri Gal Ban Gayi (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="PUNJABI MOVIES",Teri Meri Gal Ban Gayi (2022)
+http://xott.live:8080/movie/57395373/73572926/276729.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Teri Meri Jodi (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="PUNJABI MOVIES",Teri Meri Jodi (2019)
+http://xott.live:8080/movie/57395373/73572926/211388.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Teriya Meriya Hera Pheriyan (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oZBIvd8aBFV8CnSQGwEIL3QDTIu.jpg" group-title="PUNJABI MOVIES",Teriya Meriya Hera Pheriyan (2024)
+http://xott.live:8080/movie/57395373/73572926/378853.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Thana Sadar (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="PUNJABI MOVIES",Thana Sadar (2021)
+http://xott.live:8080/movie/57395373/73572926/219910.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Thappa (2022) " tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="PUNJABI MOVIES",Thappa (2022) 
+http://xott.live:8080/movie/57395373/73572926/263668.mkv
+#EXTINF:-1 tvg-id="" tvg-name="The Crorepati (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="PUNJABI MOVIES",The Crorepati (2017)
+http://xott.live:8080/movie/57395373/73572926/211246.mkv
+#EXTINF:-1 tvg-id="" tvg-name="The Rule (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="PUNJABI MOVIES",The Rule (2021)
+http://xott.live:8080/movie/57395373/73572926/211362.mkv
+#EXTINF:-1 tvg-id="" tvg-name="The Saviour: Brig Pritam Singh (2021) " tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="PUNJABI MOVIES",The Saviour: Brig Pritam Singh (2021) 
+http://xott.live:8080/movie/57395373/73572926/311997.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Thug Life (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rRapmpZGdBd5uw0hOZV7cBOvkoT.jpg" group-title="PUNJABI MOVIES",Thug Life (2017)
+http://xott.live:8080/movie/57395373/73572926/211380.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Tu Hovein Main Hovan (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="PUNJABI MOVIES",Tu Hovein Main Hovan (2023)
+http://xott.live:8080/movie/57395373/73572926/312132.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Tu Mera Ki Lagda (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zLS28G04dffu3wmSOca1rtcsZ4g.jpg" group-title="PUNJABI MOVIES",Tu Mera Ki Lagda (2019)
+http://xott.live:8080/movie/57395373/73572926/211368.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Tufang (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="PUNJABI MOVIES",Tufang (2023)
+http://xott.live:8080/movie/57395373/73572926/369062.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Tunka Tunka (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="PUNJABI MOVIES",Tunka Tunka (2021)
+http://xott.live:8080/movie/57395373/73572926/217911.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Ucha Dar Babe Nanak Da (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dKg9ae1AbXxC57KF4zy9V3DtLLe.jpg" group-title="PUNJABI MOVIES",Ucha Dar Babe Nanak Da (2024)
+http://xott.live:8080/movie/57395373/73572926/384663.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Ucha Pind (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gcN1jVTNIWOeU9IVRxWq5sDt5Jr.jpg" group-title="PUNJABI MOVIES",Ucha Pind (2021)
+http://xott.live:8080/movie/57395373/73572926/221456.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Uda Aida (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4dLay8id2C1lTETkDP1O48X64Cb.jpg" group-title="PUNJABI MOVIES",Uda Aida (2019)
+http://xott.live:8080/movie/57395373/73572926/211350.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Udeekan Teriyan (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="PUNJABI MOVIES",Udeekan Teriyan (2023)
+http://xott.live:8080/movie/57395373/73572926/341182.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Unni Ikki (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/g3SfbnoGud02U866iw8tq0rucFQ.jpg" group-title="PUNJABI MOVIES",Unni Ikki (2019)
+http://xott.live:8080/movie/57395373/73572926/211351.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Vadda Ghar (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/f1mYUS35jHgWOtFPxG5PoI8UKX3.jpg" group-title="PUNJABI MOVIES",Vadda Ghar (2024)
+http://xott.live:8080/movie/57395373/73572926/388462.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Vadda Kalakaar (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="PUNJABI MOVIES",Vadda Kalakaar (2018)
+http://xott.live:8080/movie/57395373/73572926/211364.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Vadhayiyaan Ji Vadhayiyaan (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wVB5C1SbyJq458BJoSjeu3cYB26.jpg" group-title="PUNJABI MOVIES",Vadhayiyaan Ji Vadhayiyaan (2018)
+http://xott.live:8080/movie/57395373/73572926/211334.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Vekhi Ja Chhedi Na (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="PUNJABI MOVIES",Vekhi Ja Chhedi Na (2024)
+http://xott.live:8080/movie/57395373/73572926/378474.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Vich Bolunga Tere (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jS8Tb7zDKUK3eto2d7pH7Fx8FL9.jpg" group-title="PUNJABI MOVIES",Vich Bolunga Tere (2022)
+http://xott.live:8080/movie/57395373/73572926/362973.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Warning (2021) HD" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="PUNJABI MOVIES",Warning (2021) HD
+http://xott.live:8080/movie/57395373/73572926/222237.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Warning 2 (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fQHk7ydYdH0xem3CLPdRZUrKiNU.jpg" group-title="PUNJABI MOVIES",Warning 2 (2024)
+http://xott.live:8080/movie/57395373/73572926/375440.mkv
+#EXTINF:-1 tvg-id="" tvg-name="White Panjab (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zEko84fR6KMPcYRfcioDbL12WEV.jpg" group-title="PUNJABI MOVIES",White Panjab (2023)
+http://xott.live:8080/movie/57395373/73572926/374083.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Yaar Anmulle Returns (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kRtFTeB0uPbmh5PVlG2fl9MeXOU.jpg" group-title="PUNJABI MOVIES",Yaar Anmulle Returns (2021)
+http://xott.live:8080/movie/57395373/73572926/236130.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Yaar Annmulle (2011)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hrZyeoI4fCdSS2306LzdW1iHoHW.jpg" group-title="PUNJABI MOVIES",Yaar Annmulle (2011)
+http://xott.live:8080/movie/57395373/73572926/211242.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Yaar Jugaadi (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oWsCL1pzH1PTxNZ39azr1FnnNiF.jpg" group-title="PUNJABI MOVIES",Yaar Jugaadi (2023)
+http://xott.live:8080/movie/57395373/73572926/368860.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Yaara Ve (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="PUNJABI MOVIES",Yaara Ve (2019)
+http://xott.live:8080/movie/57395373/73572926/219799.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Yaaran Da Rutbaa (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/w2P0BCRDun0E31zenFnEteozpSZ.jpg" group-title="PUNJABI MOVIES",Yaaran Da Rutbaa (2023)
+http://xott.live:8080/movie/57395373/73572926/341224.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Yaaran Diyan Poun Baaran (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rThV1hevIgrQ832TmYzOaCZI6sR.jpg" group-title="PUNJABI MOVIES",Yaaran Diyan Poun Baaran (2023)
+http://xott.live:8080/movie/57395373/73572926/345195.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Yaarian Dildariyan (2022) " tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="PUNJABI MOVIES",Yaarian Dildariyan (2022) 
+http://xott.live:8080/movie/57395373/73572926/222238.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Yaariyan (2008)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="PUNJABI MOVIES",Yaariyan (2008)
+http://xott.live:8080/movie/57395373/73572926/220965.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Yes I Am Student (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xgSL81CetHhIXymPszYuYDD3EKp.jpg" group-title="PUNJABI MOVIES",Yes I Am Student (2021)
+http://xott.live:8080/movie/57395373/73572926/221183.mkv
+#EXTINF:-1 tvg-id="" tvg-name="You and Me (2013) " tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="PUNJABI MOVIES",You and Me (2013) 
+http://xott.live:8080/movie/57395373/73572926/220191.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Youth Festival (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="PUNJABI MOVIES",Youth Festival (2023)
+http://xott.live:8080/movie/57395373/73572926/356542.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Zakhmi (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="PUNJABI MOVIES",Zakhmi (2020)
+http://xott.live:8080/movie/57395373/73572926/211278.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Zorawar Di Jacqueline (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="PUNJABI MOVIES",Zorawar Di Jacqueline (2023)
+http://xott.live:8080/movie/57395373/73572926/380652.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Ardaas Sarbat De Bhalle Di (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lTsUaslhxDwg3rBhvGIKQY5T3Fm.jpg" group-title="PUNJABI MOVIES",Ardaas Sarbat De Bhalle Di (2024)
+http://xott.live:8080/movie/57395373/73572926/383005.mkv
